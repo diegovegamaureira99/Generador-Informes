@@ -1,4 +1,4 @@
-('D:\\documentos\\codigos\\Python\\Generador '
+('D:\\Documentos\\Codigos\\Python\\Generador '
  'Informes\\build\\program\\program.pkg',
  {'BINARY': True,
   'DATA': True,
@@ -11,27 +11,27 @@
   'SYMLINK': False},
  [('pyi-contents-directory _internal', '', 'OPTION'),
   ('PYZ-00.pyz',
-   'D:\\documentos\\codigos\\Python\\Generador '
+   'D:\\Documentos\\Codigos\\Python\\Generador '
    'Informes\\build\\program\\PYZ-00.pyz',
    'PYZ'),
   ('struct',
-   'D:\\documentos\\codigos\\Python\\Generador '
+   'D:\\Documentos\\Codigos\\Python\\Generador '
    'Informes\\build\\program\\localpycs\\struct.pyc',
    'PYMODULE'),
   ('pyimod01_archive',
-   'D:\\documentos\\codigos\\Python\\Generador '
+   'D:\\Documentos\\Codigos\\Python\\Generador '
    'Informes\\build\\program\\localpycs\\pyimod01_archive.pyc',
    'PYMODULE'),
   ('pyimod02_importers',
-   'D:\\documentos\\codigos\\Python\\Generador '
+   'D:\\Documentos\\Codigos\\Python\\Generador '
    'Informes\\build\\program\\localpycs\\pyimod02_importers.pyc',
    'PYMODULE'),
   ('pyimod03_ctypes',
-   'D:\\documentos\\codigos\\Python\\Generador '
+   'D:\\Documentos\\Codigos\\Python\\Generador '
    'Informes\\build\\program\\localpycs\\pyimod03_ctypes.pyc',
    'PYMODULE'),
   ('pyimod04_pywin32',
-   'D:\\documentos\\codigos\\Python\\Generador '
+   'D:\\Documentos\\Codigos\\Python\\Generador '
    'Informes\\build\\program\\localpycs\\pyimod04_pywin32.pyc',
    'PYMODULE'),
   ('pyiboot01_bootstrap',
@@ -148,14 +148,14 @@
   ('VCRUNTIME140_1.dll',
    'C:\\Users\\Diego\\AppData\\Local\\Python\\pythoncore-3.14-64\\VCRUNTIME140_1.dll',
    'BINARY'),
+  ('tcl9tk90.dll',
+   'C:\\Users\\Diego\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\tcl9tk90.dll',
+   'BINARY'),
   ('libtommath.dll',
    'C:\\Users\\Diego\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\libtommath.dll',
    'BINARY'),
   ('tcl90.dll',
    'C:\\Users\\Diego\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\tcl90.dll',
-   'BINARY'),
-  ('tcl9tk90.dll',
-   'C:\\Users\\Diego\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\tcl9tk90.dll',
    'BINARY'),
   ('sqlite3.dll',
    'C:\\Users\\Diego\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\sqlite3.dll',
@@ -164,7 +164,7 @@
    'C:\\Users\\Diego\\AppData\\Local\\Python\\pythoncore-3.14-64\\DLLs\\zlib1.dll',
    'BINARY'),
   ('base_library.zip',
-   'D:\\documentos\\codigos\\Python\\Generador '
+   'D:\\Documentos\\Codigos\\Python\\Generador '
    'Informes\\build\\program\\base_library.zip',
    'DATA')],
  'python314.dll',

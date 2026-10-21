@@ -1,4 +1,4 @@
-('D:\\documentos\\codigos\\Python\\Generador '
+('D:\\Documentos\\Codigos\\Python\\Generador '
  'Informes\\build\\program\\PYZ-00.pyz',
  [('PIL',
    'C:\\Users\\Diego\\AppData\\Local\\Python\\pythoncore-3.14-64\\Lib\\site-packages\\PIL\\__init__.py',
